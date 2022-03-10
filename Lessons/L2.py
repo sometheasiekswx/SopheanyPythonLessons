@@ -4,6 +4,7 @@ print(number_list)
 number_int = int(input('Enter a number: '))
 print(number_int)
 
+
 number_list.append(number_int)
 print(number_list)
 
